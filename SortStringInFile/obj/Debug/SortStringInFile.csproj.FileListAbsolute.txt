@@ -1,0 +1,6 @@
+c:\Projects\SortStringInFile\SortStringInFile\bin\Debug\SortStringInFile.exe.config
+c:\Projects\SortStringInFile\SortStringInFile\obj\Debug\SortStringInFile.csprojResolveAssemblyReference.cache
+c:\Projects\SortStringInFile\SortStringInFile\bin\Debug\SortStringInFile.exe
+c:\Projects\SortStringInFile\SortStringInFile\bin\Debug\SortStringInFile.pdb
+c:\Projects\SortStringInFile\SortStringInFile\obj\Debug\SortStringInFile.exe
+c:\Projects\SortStringInFile\SortStringInFile\obj\Debug\SortStringInFile.pdb
